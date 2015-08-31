@@ -10,5 +10,5 @@ For more information about how to maintain this document, [please keep a changel
 ##[1.0.0][1.0.0]
 * Initial Release
 
-[unreleased]: https://github.com/olivierlacan/keep-a-changelog/compare/v1.0.0...HEAD
+[unreleased]: https://github.com/OpenGneu/FlatheadSample/compare/v1.0.0...HEAD
 [1.0.0]: https://github.com/OpenGneu/FlatheadSample/compare/master...v1.0.0
